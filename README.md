@@ -1,5 +1,5 @@
 74c5f2f9a4257a23c4ed504f110f17ca14ec16a4# Shizuku-API
-
+package android.content.pm;
 Shizuku API is the API provided by [Shizuku](https://github.com/RikkaApps/Shizuku) and [Sui](https://github.com/RikkaApps/Sui). With Shizuku API, you can call your Java/JNI code with root/shell (ADB) identity.
 
 ## Requirements
